@@ -4,7 +4,7 @@
       "url_png_logo": "https://piada.io/piadaFull.png",
       "location": "Virginia, USA",
       "social": {
-        "twitter_handle": "StakePiada",
+        "twitter_handle": "eastpiada",
         "telegram_handle": "piadapool",
         "youtube_handle": "channel/UCligunhcmbMYaBUMvONsKwg",
         "github_handle": "AstroWa3l"
@@ -18,8 +18,8 @@
         "vat_id": ""
       },
       "about": {
-        "me": "https://armada-alliance.gitbook.io/raspi-spo/",
-        "server": "3 x Raspberry Pi 4B 8GB",
+        "me": "https://armada-alliance.com/stake-pools/b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65",
+        "server": "Apple Silicon M1 mini + 4x Raspberry Pi 4B 8GB",
         "company": "PIADA provides educational content specializing in Raspberry Pi and ARM 64-bit SoC based stake pool operations."
       },
       "rss": ""
