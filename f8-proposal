@@ -1,0 +1,112 @@
+## Summarize your solution to the problem
+Build and support Cardano tools like cardano-wallet, cardano-node, cardano-cli, cardano-submit-api and more to work on ARM and Android computers, servers, and devices.
+
+## Summarize your relevant experience
+We host and maintain the Armada Alliance which is a Cardano stake pool alliance that builds open-source tools, software and educational material for ARM-based computers. 
+We are a collective of software and web developers, IT professionals, networking engineers, and academics working on Cardano.
+
+## [IMPACT]
+Please describe your proposed solution.
+
+Our mission is to make Cardano as distributed as possible. This is a core tenant of Cardano succeeding as a ubiquitous distributed network. 
+For this, the Armada alliance not only provides documentation and tutorials but also puts the Cardano software onto as many different platforms as possible 
+such as ARM, Apple Silicon, and Android devices. To achieve this mission, members of the alliance purchase hardware as necessary to develop and test.
+
+Most of the software developers and stake pool operators require tools such as the cardano-node, cardano-cli, and other critical software which are 
+freely provided and hosted by developers at the Armada Alliance. Our focus is to scale up our ability to provide native ARM processor support for 
+Cardano software, tools and new technology by adding more powerful hardware for our developer team to build, test and host services. This will 
+allow us to work more efficiently with the tools and operations already in place while remaining open-source well into the future.
+
+These funds will be allocated towards three categories: 
+
+- Hardware and hosting services 
+- Research and development costs
+- Documentation and tutorials
+
+**Please describe how your proposed solution will address the challenge?**
+Let's take a look at the three main points for this Open-source challenge:
+
+- increase the number and the quality of Cardano Open Source projects
+- increase the number of contributors
+- increase of open source tools and frameworks from the community for the community (dog-fooding)
+
+Our proposal aims to hit all three of these KPIs:
+
+- By providing developers and builders with more hardware options to run the various Cardano tools and software, we can increase the quality and amount of participation in Cardano Open Source projects such as Freeloaderz.
+  We have already made a huge impact by helping NFT projects with the software and documentation needed to spin up ARM computers like the Raspberry Pi to make these NFT projects very efficient.
+- We have many active users and contributors within our ARM, Apple, and Android development community but our goal is to increase the participation with this project.
+- We would like to provide more processor and architecture options for the Cardano tools built by IOHK and other community sources well into the future.
+
+**What main challenges or risks do you foresee to deliver this project successfully?**
+The cost of new testing hardware and hosting services increases over time due to macro events like supply chain issues for example or inflation. Another challenge
+is the need for more powerful build environments to produce the Cardano tools we provide. This is currently a minor issue but it will become more prominent in the future.
+Finally, as we grow and scale our need for more developers and contributors to help us keep innovating and expanding the open-source tooling and documentation will increase over time.
+
+## [FEASIBILITY]
+Please provide a detailed plan and timeline for delivering the solution.
+
+**Q2 2022** - Purchase two additional build machines to help increase resiliency and reliability and reduce build times for various tools.
+
+**Q2 2022** - Add new tooling to run on ARM, Android, and Apple computers. Starting with Ogmios and cardano-wallet, we will supply more software for developers based on demand.
+
+**Q3 2022** - Move documentation from paid hosting service to our own fully open-source and self-hosted documentation.
+
+**Q3 2022** - Add new tutorials and guides for using the various developer tools and software on Cardano.
+
+The project is well established with a large active community so we will be maintaining, enhancing, and hosting all the various services and ensure Cardano developers can use them freely.
+
+Here is what we already provide for free and open-source:
+
+Builds (CI/CD): https://ci.zw3rk.com/
+
+Github Repo for Binaries: https://github.com/armada-alliance/cardano-node-binaries
+
+Documentation: https://docs.armada-alliance.com/learn/
+
+Website: https://armada-alliance.com/
+
+
+**Please provide a detailed budget breakdown.**
+
+- Hardware for R&D (self-hosted): 5,000 USD
+
+- Continuous integration and hosting hardware/services cost: 10,000 USD
+
+- Documentation (development, maintenance, hosting): 5,000 USD
+
+- Software and tooling developers: 10,000 USD
+
+**Please provide details of your team members required to complete the project.**
+Wael - Project Lead
+
+- GitHub: https://github.com/AstroWa3l
+
+Tony - Developer, IT, Networking
+
+- GitHub: https://github.com/eastpiada
+
+Wayne - Developer, IT, Networking
+
+- GitHub: https://github.com/wcatz
+
+Daniel - Developer
+
+- GitHub: https://github.com/rekuenkdr
+
+## [AUDITABILITY]
+**Please describe how you will measure the progress and the development of the project?**
+
+- The number of stake-pool operators who join the Alliance and run on ARM computers.
+
+- Github metrics such as stars, forks, pull requests, and contributions from our various repositories.
+
+- SEO and traffic metrics to our documentation site, website, youtube, and GitHub.
+
+- Social media metrics and SEO for our Discord, Twitter, and Telegram communities.
+
+**What does success for this project look like?**
+Increase the number of open-source tools and software that run natively on ARM and other devices while providing hosting, support, and documentation for 
+developers and stake pool operators utilizing ARM computers with Cardano.
+
+**Please provide information on whether this proposal is a continuation of a previously funded project in Catalyst or an entirely new one.**
+This is an entirely new proposal but the framework is established and continuously growing.
